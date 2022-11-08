@@ -1,15 +1,11 @@
 {
-	"name": "socket-player",
+	"name": "virat",
 	"version": "1.0.0",
 	"description": "",
 	"main": "app.js",
 	"scripts": {
 		"dev": "fuser -k 5000/tcp & nodemon server.js",
-		"start": "node server.js",
-		"logs": "heroku logs -t --app savy-player",
-		"restart": "heroku restart --app savy-player",
-		"app-logs": "heroku logs -t --app savy-player --source app",
-		"check-env-var": "heroku config --app savy-player"
+		"start": "node server.js"
 	},
 	"author": "",
 	"license": "ISC",
