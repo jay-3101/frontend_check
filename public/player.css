@@ -1,5 +1,11 @@
 body {
-	background: #eee;
+	background-image: url("backImage.jpg");
+			height: 100%;
+		
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
 }
 .chat-list {
 	padding: 0;
@@ -89,3 +95,4 @@ body {
 .content {
 	margin-top: 40px;
 }
+

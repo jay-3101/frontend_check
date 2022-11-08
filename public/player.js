@@ -347,7 +347,8 @@ function sendmessage() {
 			<div
 				class="float-right p-2 mt-2"
 				style="
-					background-color: #343a40;
+				background-image: url('https://i.ibb.co/dDYKXp4/back5.jpg');
+				background-size: cover;
 					color: white;
 					border-radius: 15px 15px 0px 15px;
 					max-width: 200px;
